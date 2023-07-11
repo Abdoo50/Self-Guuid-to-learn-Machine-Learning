@@ -416,7 +416,7 @@ When we talk about top data science competitions, [**Kaggle**](https://www.kaggl
 *** 
 ## Contact Me :iphone:	 <br>
   
-<a href="https://www.kaggle.com/abdoashour" title="Kaggle"><<img src="https://img.shields.io/badge/Kaggle-%230177B5?style=flat&logo=Kaggle&logoColor=white">"/></a>
+<a href="https://www.kaggle.com/abdoashour" title="Kaggle"><img src="https://img.shields.io/badge/Kaggle-%230177B5?style=flat&logo=Kaggle&logoColor=white"/></a>
 
 <a href="https://www.linkedin.com/in/abdo-ashour-9467b623a/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   
